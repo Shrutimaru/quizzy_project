@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    /* background-color: aquamarine; */
+}
+.main{
+    border: 14px;
+    border: black;
+    margin-top: 35vh;
+    background-color: antiquewhite;
+    width: 100vw;
+    min-width: 100vh;
+    display: grid;
+    place-items: center;
+}
+.op{
+    font-size: large;
+}
+.heading{
+    font-size: 20px;
+    font-family: cursive;
+    text-decoration: underline;
+}
+.inner{
+    width: 40vw;
+    background-color: darksalmon;
+    font-weight: bolder;
+    box-shadow: 0 1rem -0.7rem rgba(0,0 , 0, 0.4);
+}
+button{
+    size: 20px;
+    align-self: center;
+    
+}
